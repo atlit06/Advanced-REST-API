@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/CourseLibrary/CourseLibrary.API/bin/Debug/netcoreapp3.0/CourseLibrary.API.dll",
+            "program": "${workspaceFolder}/CourseLibrary/CourseLibrary.API/bin/Debug/netcoreapp3.1/CourseLibrary.API.dll",
             "args": [],
             "cwd": "${workspaceFolder}/CourseLibrary/CourseLibrary.API",
             "stopAtEntry": false,
